@@ -2,6 +2,14 @@
 ### Welcome 👋🏼,
 # npc-mdt
 💻 Mobile Data Terminal System for the NPCore Framework. 🧩
+# Depency
+* mysql-async (https://github.com/brouznouf/fivem-mysql-async)
+# Screenshots
+![image](https://cdn.discordapp.com/attachments/853645885803724840/865410094954709032/unknown.png)
+![image](https://cdn.discordapp.com/attachments/853645885803724840/865410149048516628/unknown.png)
+![image](https://cdn.discordapp.com/attachments/853645885803724840/865410471850672178/unknown.png)
+![image](https://cdn.discordapp.com/attachments/853645885803724840/865410570345906176/unknown.png)
+![image](https://cdn.discordapp.com/attachments/853645885803724840/865411049179316264/unknown.png)
 # License
 ### The Following Terms Apply:
 * Adapt — remix, transform, and build upon the material.
